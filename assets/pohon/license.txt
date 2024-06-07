@@ -1,8 +1,0 @@
-Model Information:
-* title:	Low Poly Tree
-* source:	https://sketchfab.com/3d-models/low-poly-tree-77e4fc6e0542414d988135eda3515d84
-* author:	hdrv2_ (https://sketchfab.com/hdrv2_)
-
-Model License:
-* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
-* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
